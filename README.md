@@ -5,9 +5,6 @@ I am proud to announce the release of the Next Generation OPC UA IIoT Wall. This
 
 Kevin Orbaker
 
-keorba
-
-
 ## HP Gateway Setup 
 
 The HP gateway installed on the OPC wall must be installed/upgraded with the latest version of Windows 10 Enterprise (currently this is build 21H2). It is best if you do a clean installation of Windows 10. Storage on the HP gateway is limited. Do not install any unnecessary software. Please make sure all updates are completed prior to proceeding with the installation. After all Windows Updates are applied, run Disk Cleanup on the C: drive (include system files) to free up space. 
