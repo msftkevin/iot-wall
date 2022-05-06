@@ -43,7 +43,7 @@ The OPC UA IIoT Wall is hosted on IoT Central in the EXP tenant. To onboard your
 -  Select **Use Docker Desktop** and **Configure IoT Edge for Azure IoT Central (SaaS**). Provide ID Scope, Device ID and Primary Key from the previous step. Click install. 
 >The installer will make sure all prerequisites are installed, and you may have to reboot and rerun the IoT Edge Installer should a prerequisite need to be installed first. Eventually, the IoT Edge Installer will complete with "This part of the installation is now complete". 
 
->After a while, the Edge Agent, Edge Hub and OPC Publisher Docker modules will be running on the gateway and can be monitored in the Docker Desktop app running in the System Tray.
+>After a while, the **Edge Agent**, **Edge Hub**, and **Node-RED** Docker modules will be running on the gateway and can be monitored in the Docker Desktop app running in the System Tray.
 
 Before proceeding to the final step, please wait until the Node-RED service is deployed to the wall.
 
