@@ -14,7 +14,7 @@ The HP gateway installed on the OPC wall must be installed/upgraded with the lat
 
 *This is a critical step as it must be done prior to the next steps.* The HP Gateway comes with two ethernet ports. Both ports are connected to the same switch, and by default, they both grab and IP Address from whatever DHCP server your wall is connected to. We need to assign a **static IP address** to one of the ports to ensure it can communicate with the devices that are plugged into the IoT Wall.
 
-From Windows, press Windows + R. From the Run dialog enter  **control panel** and click **OK**
+From Windows, press **Windows + R**. From the Run dialog enter  **control panel** and click **OK**
 
 - From Control Panel select **Network and Internet** and then select **Network and Sharing Center**. 
 - From there you should see two ethernet connections. Names for these might vary (Mine was labled Ethernet and Ethernet 3). Choose one of the connections and select it.
